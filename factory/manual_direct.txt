@@ -1,5 +1,9 @@
 # 手工定义的 Direct 列表
 
+#personal
+ipooo.me
+sdif.ipooo.me
+
 #153
 icloud-content.com
 api.cloudmobi.net
