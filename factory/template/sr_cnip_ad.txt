@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,ampproject.org,PROXY # Google AMP issue#237
 DOMAIN-SUFFIX,ipooo.me,DIRECT
 DOMAIN-SUFFIX,noteable.io,cf节点
 DOMAIN,azure.microsoft.com,DIRECT
-DOMAIN,asmr.one,DIRECT
+DOMAIN-SUFFIX,asmr.one,DIRECT
 
 {{manual_proxy}}
 
