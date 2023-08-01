@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,ipooo.me,DIRECT
 DOMAIN-SUFFIX,noteable.io,cf节点
 DOMAIN,pan.baidu.com,DIRECT
 DOMAIN-SUFFIX,asmr.one,DIRECT
+DOMAIN,zhenti.burningvocabulary.com,DIRECT
 
 {{manual_proxy}}
 
