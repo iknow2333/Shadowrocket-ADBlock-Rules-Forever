@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,ipooo.me,DIRECT
 DOMAIN-SUFFIX,noteable.io,google_one
 DOMAIN,pan.baidu.com,DIRECT
 DOMAIN-SUFFIX,asmr.one,DIRECT
-DOMAIN,zhenti.burningvocabulary.com,DIRECT
+DOMAIN-SUFFIX,burningvocabulary.com,DIRECT
 
 {{manual_proxy}}
 
