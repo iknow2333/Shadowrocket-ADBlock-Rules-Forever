@@ -4,8 +4,8 @@
 # 不包含广告过滤
 #
 RULE-SET,https://raw.githubusercontent.com/wlxuf/add_rule/main/ChatGPT.list,CHATGPT
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Advertising/Advertising.list,REJECT
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Advertising/Advertising_Domain.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Advertising/Advertising.list,Reject
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Advertising/Advertising_Domain.list,Reject
 
 DOMAIN-SUFFIX,ampproject.org,PROXY
 DOMAIN-SUFFIX,ipooo.me,DIRECT
