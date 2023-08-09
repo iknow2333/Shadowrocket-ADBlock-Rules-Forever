@@ -3,6 +3,16 @@
 #
 # 不包含广告过滤
 #
+RULE-SET,https://raw.githubusercontent.com/wlxuf/add_rule/main/ChatGPT.list,CHATGPT
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Advertising/Advertising.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Advertising/Advertising_Domain.list,REJECT
+
+DOMAIN-SUFFIX,ampproject.org,PROXY
+DOMAIN-SUFFIX,ipooo.me,DIRECT
+DOMAIN-SUFFIX,noteable.io,google_one
+DOMAIN,pan.baidu.com,DIRECT
+DOMAIN-SUFFIX,asmr.one,DIRECT
+DOMAIN-SUFFIX,burningvocabulary.com,DIRECT
 
 DOMAIN-SUFFIX,ampproject.org,PROXY # Google AMP issue#237
 
