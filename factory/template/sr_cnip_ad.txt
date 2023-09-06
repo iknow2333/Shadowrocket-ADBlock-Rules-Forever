@@ -6,6 +6,14 @@
 
 
 RULE-SET,https://raw.githubusercontent.com/wlxuf/add_rule/main/ChatGPT.list,CHATGPT
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list,DIRECT
 
 DOMAIN-SUFFIX,ampproject.org,PROXY
 DOMAIN-SUFFIX,ipooo.me,DIRECT
@@ -18,7 +26,8 @@ DOMAIN-SUFFIX,burningvocabulary.com,DIRECT
 
 {{ad}}
 
-GEOIP,CN,DIRECT
+GEOIP,CN,DIRECT,no-resolve
+
 
 FINAL,proxy
 
