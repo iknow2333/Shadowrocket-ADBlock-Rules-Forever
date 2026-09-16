@@ -1,0 +1,10 @@
+payload:
+  - 'cdn.auth0.com'
+  - 'challenges.cloudflare.com'
+  - 'openaiapi-site.azureedge.net'
+  - '*.ai.com'
+  - '*.sentry.io'
+  - '*.openai.com'
+  - '*.intercom.io'
+  - '*.identrust.com'
+
